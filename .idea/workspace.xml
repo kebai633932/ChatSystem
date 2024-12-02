@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d4d049f9-677d-4fea-98bc-a8a68017933c" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/fasterxml_jackson_core_databind.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-2-messages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1-3-messages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-1-messages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3-1-messages.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ChatSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ChatServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MessageManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserChatUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserLoginUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserRegisterUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UserSelfInfUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/WhiteboardUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo_0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/logo_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/user_photo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/whiteboard.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ChatServer.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2hUgHE8XNytSD77V6thETi3ldTe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/86133/Desktop/3122004910柯锦宏/课设/ChatSystem_good",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/86133/Desktop/java/ChatSystem_/src/Main.java",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.ChatServer.executor": "Debug",
+    "应用程序.UserLoginUI.executor": "Run",
+    "应用程序.main.executor": "Run"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="d4d049f9-677d-4fea-98bc-a8a68017933c" name="更改" comment="" />
+      <created>1717653982898</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717653982898</updated>
+      <workItem from="1717653983977" duration="16000" />
+      <workItem from="1717654133675" duration="77000" />
+      <workItem from="1717654217810" duration="22741000" />
+      <workItem from="1717742053522" duration="81382000" />
+      <workItem from="1717928451094" duration="6103000" />
+      <workItem from="1717936439324" duration="13796000" />
+      <workItem from="1718036662998" duration="7876000" />
+      <workItem from="1718088906012" duration="634000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
